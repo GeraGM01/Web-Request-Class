@@ -1,0 +1,30 @@
+C:\Users\Gera\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Desktop\WebRequestClass\WebRequestClass\bin\Debug\WebRequestClass.exe.config
+C:\Users\Gera\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Desktop\WebRequestClass\WebRequestClass\bin\Debug\WebRequestClass.exe
+C:\Users\Gera\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Desktop\WebRequestClass\WebRequestClass\bin\Debug\WebRequestClass.pdb
+C:\Users\Gera\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Desktop\WebRequestClass\WebRequestClass\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Gera\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Desktop\WebRequestClass\WebRequestClass\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Gera\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Desktop\WebRequestClass\WebRequestClass\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Gera\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Desktop\WebRequestClass\WebRequestClass\obj\Debug\WebRequestClass.csproj.AssemblyReference.cache
+C:\Users\Gera\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Desktop\WebRequestClass\WebRequestClass\obj\Debug\WebRequestClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gera\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Desktop\WebRequestClass\WebRequestClass\obj\Debug\WebRequestClass.Form1.resources
+C:\Users\Gera\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Desktop\WebRequestClass\WebRequestClass\obj\Debug\WebRequestClass.Properties.Resources.resources
+C:\Users\Gera\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Desktop\WebRequestClass\WebRequestClass\obj\Debug\WebRequestClass.csproj.GenerateResource.cache
+C:\Users\Gera\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Desktop\WebRequestClass\WebRequestClass\obj\Debug\WebRequestClass.csproj.CoreCompileInputs.cache
+C:\Users\Gera\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Desktop\WebRequestClass\WebRequestClass\obj\Debug\WebRequestClass.csproj.CopyComplete
+C:\Users\Gera\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Desktop\WebRequestClass\WebRequestClass\obj\Debug\WebRequestClass.exe
+C:\Users\Gera\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Desktop\WebRequestClass\WebRequestClass\obj\Debug\WebRequestClass.pdb
+C:\Users\Gera\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Desktop\Orta Luna-Gonzalez Monsivais\WebRequestClass\WebRequestClass\bin\Debug\WebRequestClass.exe.config
+C:\Users\Gera\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Desktop\Orta Luna-Gonzalez Monsivais\WebRequestClass\WebRequestClass\bin\Debug\WebRequestClass.exe
+C:\Users\Gera\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Desktop\Orta Luna-Gonzalez Monsivais\WebRequestClass\WebRequestClass\bin\Debug\WebRequestClass.pdb
+C:\Users\Gera\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Desktop\Orta Luna-Gonzalez Monsivais\WebRequestClass\WebRequestClass\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Gera\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Desktop\Orta Luna-Gonzalez Monsivais\WebRequestClass\WebRequestClass\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Gera\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Desktop\Orta Luna-Gonzalez Monsivais\WebRequestClass\WebRequestClass\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Gera\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Desktop\Orta Luna-Gonzalez Monsivais\WebRequestClass\WebRequestClass\obj\Debug\WebRequestClass.csproj.AssemblyReference.cache
+C:\Users\Gera\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Desktop\Orta Luna-Gonzalez Monsivais\WebRequestClass\WebRequestClass\obj\Debug\WebRequestClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gera\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Desktop\Orta Luna-Gonzalez Monsivais\WebRequestClass\WebRequestClass\obj\Debug\WebRequestClass.Form1.resources
+C:\Users\Gera\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Desktop\Orta Luna-Gonzalez Monsivais\WebRequestClass\WebRequestClass\obj\Debug\WebRequestClass.Properties.Resources.resources
+C:\Users\Gera\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Desktop\Orta Luna-Gonzalez Monsivais\WebRequestClass\WebRequestClass\obj\Debug\WebRequestClass.csproj.GenerateResource.cache
+C:\Users\Gera\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Desktop\Orta Luna-Gonzalez Monsivais\WebRequestClass\WebRequestClass\obj\Debug\WebRequestClass.csproj.CoreCompileInputs.cache
+C:\Users\Gera\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Desktop\Orta Luna-Gonzalez Monsivais\WebRequestClass\WebRequestClass\obj\Debug\WebRequestClass.csproj.CopyComplete
+C:\Users\Gera\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Desktop\Orta Luna-Gonzalez Monsivais\WebRequestClass\WebRequestClass\obj\Debug\WebRequestClass.exe
+C:\Users\Gera\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\Desktop\Orta Luna-Gonzalez Monsivais\WebRequestClass\WebRequestClass\obj\Debug\WebRequestClass.pdb
